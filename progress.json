@@ -180,5 +180,14 @@
       "The remote 'upstream' is missing!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786704690.244041,
+    "completed_at": 1786704695.726459,
+    "comments": [
+      "The upstream remote does not point to the original repository!"
+    ],
+    "status": "Incomplete"
   }
 ]
