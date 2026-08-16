@@ -487,5 +487,14 @@
       "Great work! All required branches are present and correctly set up."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1786865077.288014,
+    "completed_at": 1786865080.628813,
+    "comments": [
+      "The local VWX branch is not created."
+    ],
+    "status": "Incomplete"
   }
 ]
